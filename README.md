@@ -1,11 +1,10 @@
-# ENCRYPTIX
-# TASK - 1
+# PROJECT - 1
 # NUMBER GUESSING GAME 
 Create a program that generates a random number and asks the user  
 to guess it. Provide feedback on whether the guess is too high or too low  
 until the user guesses the correct number.
 
-# TASK - 2
+# PROJECT - 2
 # TIC-TAC-TOE GAME 
 Build a simple console-based Tic-Tac-Toe game that allows two players  
 to play against each other 
@@ -20,7 +19,7 @@ to play against each other
  Display Result: Show the result of the game (win, draw, or ongoing).  
  Play Again: Ask if the players want to play another game.
 
-# TASK - 3
+# PROJECT - 3
 # TO-DO-LIST 
 Build a simple console-based to-do list manager that allows  
 users to add, view, and delete tasks 
